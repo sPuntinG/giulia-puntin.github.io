@@ -1,2 +1,1 @@
-# giulia-puntin.github.io
-Static content for blog
+Static content for my website at https://spunting.github.io/en/
